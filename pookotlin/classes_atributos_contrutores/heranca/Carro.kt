@@ -1,0 +1,2 @@
+package pookotlin.classes_atributos_contrutores.heranca
+
